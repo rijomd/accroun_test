@@ -1,0 +1,8 @@
+
+
+export const userConstants = {
+    ITEMLIST_REQUEST: "ITEMLIST_REQUEST",
+    ITEMLIST_SUCCESS: "ITEMLIST_SUCCESS",
+    ITEMLIST_FAIL: "ITEMLIST_FAIL",
+
+}
